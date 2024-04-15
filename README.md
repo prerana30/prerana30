@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-**prerana30/prerana30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
  I'm currently learning C#, .Net core, cloud and exploring AI/ML.
 

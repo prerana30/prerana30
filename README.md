@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
- I'm currently learning C#, .Net core, cloud and exploring AI/ML.
+ I'm currently working on C#, .Net core, cloud and exploring AI/ML.
 
 
 ## 🌐 Socials:
